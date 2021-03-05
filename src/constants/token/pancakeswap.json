@@ -11,9 +11,9 @@
   "keywords": ["pancake", "default"],
   "tokens": [
     {
-      "name": "Goose Golden Egg",
-      "symbol": "EGG",
-      "address": "0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6",
+      "name": "BeeSwap Finance",
+      "symbol": "BEE",
+      "address": "0x3aEb6DeE52eD6772f26C68bAc63f121121d7092F",
       "chainId": 56,
       "decimals": 18
     },
